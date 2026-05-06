@@ -16,7 +16,7 @@ Wide-R solves this problem by abstracting the networking layer and automating th
 
 <p float="left">
   <img src="screenshots/ss1.jpg" width="250" alt="first image"/>
-  <img src="screenshots/ss2.jpg.jpg" width="250" alt="second image"/>
+  <img src="screenshots/ss2.jpg" width="250" alt="second image"/>
   <img src="screenshots/ss3.jpg" width="250" alt="third image"/>
 </p>
 
